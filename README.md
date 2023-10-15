@@ -177,3 +177,11 @@ This is a community project, a special thanks to our contributors! 🤗
 <a href="https://github.com/go-skynet/LocalAI/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=go-skynet/LocalAI" />
 </a>
+
+
+
+## Quickstart
+The easiest way to start playing is
+1. Click below to use the Github Codespace
+
+    [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/sc00rpi0n/LocalAI?quickstart=1)
